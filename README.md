@@ -1,5 +1,5 @@
-#Html Css JavaScript Mobile Responsive 
-Created by. Codeslinger
+# Html Css JavaScript Mobile Responsive 
+- Created by. Codeslinger
 
 if you want to get source code free to download !!
 
