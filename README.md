@@ -7,5 +7,7 @@ if you want to get source code free to download !!
 git clone https://github.com/dhanubalde/cslinger.git
 ```
 
-<a href="https://dhanubalde.github.io/cslinger">live Demo</a>
+<h1><a href="https://dhanubalde.github.io/cslinger">Demo</a></h1>
+
+
 <img src="./image/screen.png" alr="screen"/>
